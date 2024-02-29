@@ -128,6 +128,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [Pico 4 Enterprice](https://www.picoxr.com/global/products/pico4e) - Qualcom Snapdragon XR2 chip powered VR Headset
 * [Bigscreen Beyond](https://www.bigscreenvr.com/) - The world's smallest VR headset
 * [Varjo XR-4](https://varjo.com/products/xr-4/) - It is great where highest-level visual fidelity and immersion are critical
+  
 
 **2022**
 * [Meta Quest Pro](https://www.meta.com/quest/quest-pro/) - Most advanced Meta headset
@@ -183,6 +184,7 @@ XR stands for "Extended Reality," an umbrella term that covers all of the variou
 * [XReal Air](https://www.xreal.com/air/) - Smart Glasses with Massive 201" Micro-OLED Virtual Theater
 * [Viture XR Glass](https://www.viture.com/dashboard?scene=store) - 120inch screen in front of your eyes
 * [RealWear Navigator 520](https://www.realwear.com/hyperdisplay/) - It is lightweight and comfortable, and is secure for enterprise use
+* [LAWK ONE AR GLASSES](https://www.lawkglasses.com) - designed specifically for outdoor sports：cycling, running, walking and more
 
 **2022**
 * [Magic Leap 2](https://www.magicleap.com/magic-leap-2) - Standalone AR Headset
